@@ -1,0 +1,68 @@
+{
+  "stickers" : [
+    {
+      "filename" : "dev-null.sticker"
+    },
+    {
+      "filename" : "sudo.sticker"
+    },
+    {
+      "filename" : "h-h-h-h-h.sticker"
+    },
+    {
+      "filename" : "cmd-c.sticker"
+    },
+    {
+      "filename" : "cmd-v.sticker"
+    },
+    {
+      "filename" : "cmd-x.sticker"
+    },
+    {
+      "filename" : "cmd-z.sticker"
+    },
+    {
+      "filename" : "if.sticker"
+    },
+    {
+      "filename" : "then.sticker"
+    },
+    {
+      "filename" : "else.sticker"
+    },
+    {
+      "filename" : "return-true.sticker"
+    },
+    {
+      "filename" : "return-false.sticker"
+    },
+    {
+      "filename" : "ctrl-alt-del.sticker"
+    },
+    {
+      "filename" : "void.sticker"
+    },
+    {
+      "filename" : "while-true.sticker"
+    },
+    {
+      "filename" : "rm-rf.sticker"
+    },
+    {
+      "filename" : "throw-exception.sticker"
+    },
+    {
+      "filename" : "from-future-import.sticker"
+    },
+    {
+      "filename" : "to-err-human.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "large"
+  }
+}

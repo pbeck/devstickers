@@ -1,13 +1,31 @@
 {
   "stickers" : [
     {
+      "filename" : "bsod.sticker"
+    },
+    {
+      "filename" : "devdevdevs.sticker"
+    },
+    {
+      "filename" : "copypaste.sticker"
+    },
+    {
       "filename" : "dev-null.sticker"
     },
     {
       "filename" : "sudo.sticker"
     },
     {
+      "filename" : "ctrl-c.sticker"
+    },
+    {
+      "filename" : "ctrl-z.sticker"
+    },
+    {
       "filename" : "h-h-h-h-h.sticker"
+    },
+    {
+      "filename" : "ctrl-alt-del.sticker"
     },
     {
       "filename" : "cmd-c.sticker"
@@ -37,9 +55,6 @@
       "filename" : "return-false.sticker"
     },
     {
-      "filename" : "ctrl-alt-del.sticker"
-    },
-    {
       "filename" : "void.sticker"
     },
     {
@@ -53,9 +68,6 @@
     },
     {
       "filename" : "from-future-import.sticker"
-    },
-    {
-      "filename" : "to-err-human.sticker"
     }
   ],
   "info" : {
@@ -63,6 +75,6 @@
     "author" : "xcode"
   },
   "properties" : {
-    "grid-size" : "large"
+    "grid-size" : "regular"
   }
 }

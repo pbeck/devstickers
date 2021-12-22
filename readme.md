@@ -1,3 +1,5 @@
+![devstickers-yellow-square-1-1](https://user-images.githubusercontent.com/47978/147069625-98973b1b-d6b1-4032-9d53-420127b5b674.png)
+
 # DevStickers();
 
 DevStickers(): iMessage Stickers Pack for developers!
